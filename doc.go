@@ -22,4 +22,4 @@ These APIs provide services for manipulating Harbor project.
 
 swagger:meta
 */
-package server
+package restapi
