@@ -13,4 +13,4 @@ require (
 	github.com/goharbor/harbor/src/server/v2.0/models v0.0.0-00010101000000-000000000000
 )
 
-replace github.com/goharbor/harbor/src/server/v2.0/models => github.com/congcongke/models v0.0.0-20220317074912-88e04967720f
+replace github.com/goharbor/harbor/src/server/v2.0/models => github.com/congcongke/models v0.0.1
